@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "563101417101",
+    "project_id": "nth-theater-136618"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563101417101:android:9808a16399a49d6e",
+        "android_client_info": {
+          "package_name": "com.udacity.stockhawk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASexEAjOcBQBT5xRxmv8oXlYG_v-3unOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
